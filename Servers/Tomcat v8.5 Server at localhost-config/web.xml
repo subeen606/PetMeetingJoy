@@ -43,6 +43,14 @@
   <!--   fileEncoding        Encoding to be used to read static resources   -->
   <!--                       [platform default]                             -->
   <!--                                                                      -->
+<<<<<<< HEAD
+  <!--   useBomIfPresent     If a static file contains a byte order mark    -->
+  <!--                       (BOM), should this be used to determine the    -->
+  <!--                       file encoding in preference to fileEncoding.   -->
+  <!--                       [true]                                         -->
+  <!--                                                                      -->
+=======
+>>>>>>> ceedb267573393b570ec9eb479baea6f58f4165d
   <!--   input               Input buffer size (in bytes) when reading      -->
   <!--                       resources to be served.  [2048]                -->
   <!--                                                                      -->
