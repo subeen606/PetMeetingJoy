@@ -7,13 +7,11 @@
 <title>Insert title here</title>
 </head>
 <body>
-
    
         <div id="loginInfo">
            <a href="login.do">로그인</a>
         </div>
-         
-      
+     
 
 </body>
 </html>
